@@ -1,0 +1,190 @@
+# Translation of Themes - Builders Landing Page in Indonesian
+# This file is distributed under the same license as the Themes - Builders Landing Page package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 01:10:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Builders Landing Page\n"
+
+#. Theme Name of the theme
+msgid "Builders Landing Page"
+msgstr "Builders Landing Page"
+
+#: inc/parent-functions.php:181 inc/parent-functions.php:182
+#: inc/parent-functions.php:183 inc/parent-functions.php:184
+#: inc/parent-functions.php:185
+msgid "here"
+msgstr "di sini"
+
+#: inc/parent-functions.php:171
+msgid "Demo and Documentation"
+msgstr "Demo & Dokumentasi"
+
+#: inc/parent-functions.php:7 inc/parent-functions.php:90
+#: inc/child-functions.php:67 inc/child-functions.php:225
+msgid "Email"
+msgstr "Email"
+
+#: inc/parent-functions.php:6 inc/parent-functions.php:89
+#: inc/child-functions.php:24 inc/child-functions.php:233
+msgid "Phone Number"
+msgstr "Nomor Telepon"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:376
+msgid "Hex Value"
+msgstr "Nilai Heksa"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:244
+msgid "Limit: %s rows"
+msgstr "Batas: %s baris"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+msgid "Add new %s"
+msgstr "Tambah %s baru"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr "baris"
+
+#: sections/portfolio.php:49
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+#: inc/child-functions.php:148
+msgid "Example: fa-bell"
+msgstr "Contoh: fa-bell"
+
+#: inc/child-functions.php:147
+msgid "Font Awesome Icon"
+msgstr "Ikon Font Awesome"
+
+#: inc/child-functions.php:143
+msgid "Social Links"
+msgstr "Tautan Media Sosial"
+
+#: inc/child-functions.php:119
+msgid "Enable to show social links at header."
+msgstr "Aktifkan untuk menampilkan tautan media sosial di header."
+
+#: inc/child-functions.php:118
+msgid "Enable Social Links"
+msgstr "Aktifkan Tautan Media Sosial"
+
+#: inc/child-functions.php:59
+msgid "Email Address"
+msgstr "Alamat E-mail"
+
+#: inc/parent-functions.php:184
+msgid "Support Ticket"
+msgstr "Tiket Bantuan"
+
+#: inc/parent-functions.php:182
+msgid "Theme Demo"
+msgstr "Demo Tema"
+
+#: footer.php:63
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:63
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: footer.php:62
+msgid "Powered by "
+msgstr "Ditenagai oleh "
+
+#: footer.php:53
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:53
+msgid "&copy; Copyright "
+msgstr "&copy; Hak Cipta"
+
+#: inc/child-functions.php:158
+msgid "links"
+msgstr "links"
+
+#: inc/child-functions.php:153
+msgid "Example: http://facebook.com"
+msgstr "Contoh: http://facebook.com"
+
+#: inc/child-functions.php:152
+msgid "Link"
+msgstr "Tautan"
+
+#: footer.php:58
+msgid "Builders Landing Page | Developed By "
+msgstr "Builders Landing Page| Diciptakan oleh"
+
+#: inc/child-functions.php:274 inc/child-functions.php:277
+msgid "View More Projects"
+msgstr "Lihat Lebih Banyak Proyek"
+
+#: inc/child-functions.php:271
+msgid "More About Us"
+msgstr "Lebih Banyak Tentang Kami"
+
+#: inc/parent-functions.php:185
+msgid "Rate this theme"
+msgstr "Nilai tema ini"
+
+#: inc/parent-functions.php:181
+msgid "Theme Documentation"
+msgstr "Dokumentasi Tema"
+
+#: inc/parent-functions.php:9 inc/parent-functions.php:92
+#: inc/child-functions.php:48
+msgid "constructio@xyz.com"
+msgstr "constructio@xyz.com"
+
+#: inc/parent-functions.php:183
+msgid "Theme Info"
+msgstr "Info tema"
+
+#: inc/child-functions.php:203
+msgid "Select Post/Page Six"
+msgstr "Pilih Artikel/Halaman Enam"
+
+#: inc/child-functions.php:185
+msgid "Select Post/Page Five"
+msgstr "Pilih Artikel/Halaman Lima"
+
+#: inc/child-functions.php:102
+msgid "You can find this in the end of navigation menu.."
+msgstr "Anda dapat menemukannya di akhir menu navigasi.."
+
+#: inc/child-functions.php:101
+msgid "Button link for Get A Quote"
+msgstr "Tautan tombol untuk Get A Quote"
+
+#: inc/child-functions.php:83
+msgid "Email # Label"
+msgstr "Label # E-mail"
+
+#: inc/child-functions.php:40
+msgid "Phone # Label"
+msgstr "Label # Telepon"
+
+#: inc/parent-functions.php:204
+msgid "Choose Post/Page"
+msgstr "Pilih Artikel/Halaman"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: footer.php:60
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/builders-landing-page/"
+msgstr "https://rarathemes.com/wordpress-themes/builders-landing-page/"
